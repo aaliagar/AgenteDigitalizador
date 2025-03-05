@@ -44,8 +44,8 @@ class _UiSettings(BaseSettings):
     title: str = "Agente digitalizador"
     logo: Optional[str] = None
     chat_logo: Optional[str] = None
-    chat_title: str = "Pregúntame sobre el Kit Consulting"
-    chat_description: str = "Este asistente virtual te ayudará a encontrar información relacionada con el Kit Consulting."
+    chat_title: str = "Pregúntame sobre el ayudas económicas para empresas"
+    chat_description: str = "Este asistente virtual te ayudará a encontrar información relacionada con ayudas económicas a empresas."
     favicon: str = "/favicon.ico"
     show_share_button: bool = True
     show_chat_history_button: bool = True
